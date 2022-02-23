@@ -4,5 +4,5 @@
 
 - Hooks:
   - useEffect
-  - useEffect cleanup function
+  - useEffect with cleanup function
   - useReducer
