@@ -6,3 +6,4 @@
   - useEffect
   - useEffect with cleanup function
   - useReducer
+  - Context API
